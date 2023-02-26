@@ -1,0 +1,46 @@
+
+  
+  body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+
+.start {
+    background-color: #cbdfb1;
+    padding-left: 100px;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    font-family: 'Montserrat', sans-serif;
+    font-family: 'Open Sans', sans-serif;
+    width: 60%;
+
+}
+li {
+    margin-bottom: 10px; /* Додайте проміжок внизу кожного елементу списку */
+}
+   .menu-container {
+    display: flex;
+    justify-content: space-between;
+    }
+    .left-menu {
+      margin: 0;
+      padding: 0;
+      list-style-type: ;
+      padding-top: 70px;
+      padding-left: 70px;
+    }
+    .Contacts {
+        list-style-type: none;
+    }
+    .right-menu {
+        text-align: right;
+      padding-top: 70px;
+      padding-right: 600px;
+      list-style-type: none;
+      padding-left: 300px;
+    }
+    .Front-end {
+        max-width: px;
+    }
+   
